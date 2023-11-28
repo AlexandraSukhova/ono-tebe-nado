@@ -10,7 +10,6 @@
   column-gap: 25px;
   justify-content: space-between;
   align-items: center;
-  width: 100%;
 }
 
 .header__menu {
@@ -178,7 +177,7 @@ line-height: 24.3px;
 
 .bet-button {
   appearance: none;
-  background: transparent; 
+  background: transparent;
   width: 257px;
   height: 52px;
   border: 1px solid #fff;
