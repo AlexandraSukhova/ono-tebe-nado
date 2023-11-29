@@ -1,12 +1,10 @@
 body {
-  margin: 0 auto;
   font-family: Raleway, Arial, Helvetica, sans-serif;
   color: #000;
 }
 
 /* HEADER */
 .header {
-  margin: 0 auto;
   min-height: 293px;
   padding: 91px 50px;
   width: 100%;
@@ -186,7 +184,6 @@ body {
 }
 
 .bet-button:hover {
-  border: 1px solid #fff;
   background: #fff;
   color: #000;
 }
